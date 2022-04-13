@@ -1,3 +1,4 @@
+name: urlSam
 on:
   push:
     branches:
