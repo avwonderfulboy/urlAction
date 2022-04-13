@@ -2,7 +2,7 @@ name: urlSam
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   deploy_lambda:
     runs-on: ubuntu-latest
